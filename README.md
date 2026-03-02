@@ -1,13 +1,13 @@
-<div align="center">
+**<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=+Expert;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
-
-# 👋 Hi, I'm Amir Aziz
-### ⚡ A Front-end Web Developer
-#### 🌟 Turning Ideas into Reality
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2000&color=00D1FF&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Amir+Aziz;%E2%9A%A1+A+Front-end+Web+Developer;%F0%9F%8C%9F+Turning+Ideas+into+Reality" alt="Typing SVG" />
 
 ---
-</div>
+
+## 🚀 Welcome to My GitHub
+**Full Stack Developer | IT Trainer | UI/UX Enthusiast**
+
+</div>**
 
 ### 💼 About Me
 I’m **Amir Aziz**, a passionate **Full Stack Developer** from Pakistan. I love building scalable web applications and training the next generation of developers.
