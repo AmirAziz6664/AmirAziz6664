@@ -1,13 +1,12 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Amir+Aziz" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Amir+Aziz;A+Front-end+Web+Developer;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 ## 🚀 Welcome to My GitHub
 
-**Full Stack Developer | IT Trainer | UI/UX Enthusiast**
+**Front-end Web Developer | UI/UX Enthusiast**
 
 ---
-
 </div>
 
 ### 💼 About Me
