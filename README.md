@@ -1,73 +1,71 @@
-<p align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFD700&width=600&lines=Hi,+I'm+Amir+Aziz+👋" alt="Typing Animation">
-  </h1>
-</p>
+<div align="center">
 
-<p align="center">
-<b>Front-End Developer | BS Graduate | 1 Year Experience</b>
-</p>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Amir+Aziz" alt="Typing SVG" />
 
-<p align="center">
-💻 <b>Technologies & Tools</b><br>
-  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</p>
+## 🚀 Welcome to My GitHub
 
+**Full Stack Developer | IT Trainer | UI/UX Enthusiast**
+
+---
+
+</div>
+
+### 💼 About Me
+I’m **Amir Aziz**, a passionate **Full Stack Developer** from Pakistan. I love building scalable web applications and training the next generation of developers.
+
+- 🔭 Working on **Frontend & Backend** with a focus on scalable solutions
+- 🌱 Expanding knowledge in **Node.js, MongoDB, AI**, and cutting-edge frameworks
+- 💻 Portfolio: [View My Work](#)
+- 🧑‍💻 GitHub Projects: [Explore Here](#)
+- 💬 Expertise: **HTML, CSS, JavaScript, Tailwind, React.js, Firebase**
+- 📧 Email: [amiraziz@example.com](mailto:amiraziz@example.com)
+- 🔗 LinkedIn: [Amir Aziz](#)
+
+---
+
+<div align="center">
+
+### 🌐 Connect with Me
+[![Email](https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiraziz@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF914D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+---
+
+### 🛠️ Languages & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue,nodejs,mongodb,firebase" />
+
+---
+
+### 📊 GitHub Analytics
 <p align="center">
-🌐 <b>Portfolio:</b> <a href="https://amir-portfolio.com">amir-portfolio.com</a><br>
-📫 <b>Contact:</b> amiraziz@example.com | <a href="https://www.linkedin.com/in/amiraziz/">LinkedIn</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">
-<b>🌟 Pinned Projects Showcase</b>
-</p>
-
-<p align="center">
-<a href="https://github.com/amiraziz/portfolio-website">
-  <img src="https://raw.githubusercontent.com/amiraziz/portfolio-website/main/screenshot.png" width="200px;" alt="Portfolio Website"/>
-  <br/><b>Portfolio Website</b>
-</a>
-<a href="https://github.com/amiraziz/react-ecommerce">
-  <img src="https://raw.githubusercontent.com/amiraziz/react-ecommerce/main/screenshot.png" width="200px;" alt="React E-Commerce"/>
-  <br/><b>React E-Commerce App</b>
-</a>
-<a href="https://github.com/amiraziz/netflix-clone">
-  <img src="https://raw.githubusercontent.com/amiraziz/netflix-clone/main/screenshot.png" width="200px;" alt="Netflix Clone"/>
-  <br/><b>Netflix Clone</b>
-</a>
-<a href="https://github.com/amiraziz/bootstrap-landing">
-  <img src="https://raw.githubusercontent.com/amiraziz/bootstrap-landing/main/screenshot.png" width="200px;" alt="Landing Page"/>
-  <br/><b>Landing Page (Bootstrap)</b>
-</a>
-</p>
+### 🔥 GitHub Streak & Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
 
 ---
 
-<p align="center">
-<b>🔥 GitHub Stats</b><br>
-<img src="https://github-readme-stats.vercel.app/api?username=amiraziz&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraziz&layout=compact&theme=radical">
-</p>
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyonight&hide_border=true)
 
-<p align="center">
-<b>🌱 Learning & Interests</b><br>
-- Improving React performance<br>
-- Exploring Next.js & modern JS frameworks<br>
-- Web animation & UI/UX enhancements
-</p>
+---
 
-<p align="center">
-<b>👀 Visitors</b><br>
-<img src="https://profile-counter.glitch.me/amiraziz/count.svg">
-</p>
+### 🚀 Featured Projects
+[![Portfolio Website](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![All Projects](https://img.shields.io/badge/ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00d1ff&style=flat-square&label=Profile+Views)
+
+---
+
+**⭐ "Turning Ideas into Reality — One Pixel at a Time"**
+
+</div>
