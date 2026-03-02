@@ -3,6 +3,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2000&color=00D1FF&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Amir+Aziz;%E2%9A%A1+A+Front-end+Web+Developer;%F0%9F%8C%9F+Turning+Ideas+into+Reality" alt="Typing SVG" />
 
 ## 🚀 Welcome to My GitHub
+
 **Full Stack Developer | IT Trainer | UI/UX Enthusiast**
 </div>
 
