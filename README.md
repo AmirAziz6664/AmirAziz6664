@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Hi,👋 Hi, I'm Amir Aziz+Expert;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+
 # 👋 Hi, I'm Amir Aziz
 ### ⚡ A Front-end Web Developer
 #### 🌟 Turning Ideas into Reality
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Front-end+Expert;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 
 ---
 </div>
