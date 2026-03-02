@@ -4,7 +4,7 @@
 
 ## 🚀 Welcome to My GitHub
 
-**Full Stack Developer | IT Trainer | UI/UX Enthusiast**
+**Front-end Web Developer | Software Engineer Graduate | UI/UX Enthusiast**
 </div>
 
 ---
